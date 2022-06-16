@@ -16,6 +16,7 @@ I am here..
 We have hope
 testing!!
 
+
 function getDirectoryContents(highDir, folderPath, folderName)
       {
         app.log.info("Made it inside function")
